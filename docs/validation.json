@@ -1,0 +1,374 @@
+{
+  "results": [
+    {
+      "name": "火车装车升级",
+      "url": "火车装车升级.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "登录页",
+      "url": "登录页.html",
+      "widgets": 9,
+      "text": 23,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "登录选择页",
+      "url": "登录选择页.html",
+      "widgets": 5,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "工作台",
+      "url": "工作台.html",
+      "widgets": 98,
+      "text": 92,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "煤种管理",
+      "url": "煤种管理.html",
+      "widgets": 277,
+      "text": 586,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "煤仓管理",
+      "url": "煤仓管理.html",
+      "widgets": 230,
+      "text": 102,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "流向管理",
+      "url": "流向管理.html",
+      "widgets": 564,
+      "text": 777,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "车型模版管理",
+      "url": "车型模版管理.html",
+      "widgets": 427,
+      "text": 343,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "装车计划",
+      "url": "装车计划.html",
+      "widgets": 503,
+      "text": 778,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "执行进度跟踪",
+      "url": "执行进度跟踪.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "RFID 车号识别",
+      "url": "rfid_车号识别.html",
+      "widgets": 676,
+      "text": 382,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "RFID 车号识别（弃用）-旧版包含明细新增编辑",
+      "url": "rfid_车号识别（弃用）-旧版包含明细新增编辑.html",
+      "widgets": 673,
+      "text": 383,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "视频车号识别",
+      "url": "视频车号识别.html",
+      "widgets": 370,
+      "text": 359,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "PLC 车号识别",
+      "url": "plc_车号识别.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "多源融合结果",
+      "url": "多源融合结果.html",
+      "widgets": 1191,
+      "text": 332,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "装车驾驶仓",
+      "url": "装车驾驶仓.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "装车大屏",
+      "url": "装车大屏.html",
+      "widgets": 284,
+      "text": 446,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "视频监控",
+      "url": "视频监控.html",
+      "widgets": 171,
+      "text": 197,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "视频区域",
+      "url": "视频区域.html",
+      "widgets": 311,
+      "text": 289,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "摄像头管理",
+      "url": "摄像头管理.html",
+      "widgets": 347,
+      "text": 371,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "设备状态总览",
+      "url": "设备状态总览.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "全局首页",
+      "url": "全局首页.html",
+      "widgets": 166,
+      "text": 413,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "煤仓",
+      "url": "煤仓.html",
+      "widgets": 243,
+      "text": 698,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "上站皮带",
+      "url": "上站皮带.html",
+      "widgets": 139,
+      "text": 241,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "装车塔楼",
+      "url": "装车塔楼.html",
+      "widgets": 170,
+      "text": 375,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "车号识别",
+      "url": "车号识别.html",
+      "widgets": 136,
+      "text": 239,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "封尘剂喷洒",
+      "url": "封尘剂喷洒.html",
+      "widgets": 148,
+      "text": 340,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "火车",
+      "url": "火车.html",
+      "widgets": 121,
+      "text": 143,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "空车留底记录",
+      "url": "空车留底记录.html",
+      "widgets": 386,
+      "text": 665,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "装车记录",
+      "url": "装车记录.html",
+      "widgets": 2168,
+      "text": 1008,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "偏载分析",
+      "url": "偏载分析.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "装车质量统计",
+      "url": "装车质量统计.html",
+      "widgets": 117,
+      "text": 110,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "设备台账",
+      "url": "设备台账.html",
+      "widgets": 542,
+      "text": 456,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "设备实时状态",
+      "url": "设备实时状态.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "设备故障记录",
+      "url": "设备故障记录.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "设备运行状况分析",
+      "url": "设备运行状况分析.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "实时报警看板",
+      "url": "实时报警看板.html",
+      "widgets": 110,
+      "text": 98,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "报警规则配置",
+      "url": "报警规则配置.html",
+      "widgets": 564,
+      "text": 286,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "报警历史",
+      "url": "报警历史.html",
+      "widgets": 297,
+      "text": 378,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "报警统计",
+      "url": "报警统计.html",
+      "widgets": 140,
+      "text": 239,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "报警统计-弃用",
+      "url": "报警统计-弃用.html",
+      "widgets": 174,
+      "text": 441,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "装车明细报表",
+      "url": "装车明细报表.html",
+      "widgets": 108,
+      "text": 121,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "装车汇总报表",
+      "url": "装车汇总报表.html",
+      "widgets": 505,
+      "text": 497,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "产量分析",
+      "url": "产量分析.html",
+      "widgets": 208,
+      "text": 174,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "设备参数配置",
+      "url": "设备参数配置.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    },
+    {
+      "name": "多源融合策略配置",
+      "url": "多源融合策略配置.html",
+      "widgets": 0,
+      "text": 0,
+      "axure": true,
+      "brokenImages": 0
+    }
+  ],
+  "errors": [],
+  "runtimeErrors": []
+}
